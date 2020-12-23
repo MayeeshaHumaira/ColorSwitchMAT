@@ -1,0 +1,17 @@
+﻿Build started 09-08-17 অপরাহ্ন 7.35.19.
+     1>Project "C:\Users\Habibur Rahman\Desktop\Color Switch MAT\iGraphics\iGraphics\iGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\iGraphics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         iGraphics.vcxproj -> C:\Users\Habibur Rahman\Desktop\Color Switch MAT\iGraphics\Debug\iGraphics.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\iGraphics.unsuccessfulbuild".
+         Touching "Debug\iGraphics.lastbuildstate".
+     1>Done Building Project "C:\Users\Habibur Rahman\Desktop\Color Switch MAT\iGraphics\iGraphics\iGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
